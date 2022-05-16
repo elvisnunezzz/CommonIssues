@@ -7,13 +7,13 @@
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Issues</h2>
 
-- <b>Windows 365</b> 
-- <b>Google</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
+1. <B>Mouse/Keyboard Not Working</b>
+   - Check the physical cable to see it it's plugged in correctly
+   - plug the mouse/keyboard to a different port
+   - Mouse/keyboard is downloading drivers
+   - Replace the mouse/keyboard
+   - Port might just be bad
+   - Reinstalled the drivers within device manager
+   - 
